@@ -66,14 +66,6 @@ By turning data into actionable insights, this project aims to enhance paramedic
 
 ---
 
-## **Repository Structure**
-
-- `/ETL`: Contains SSIS packages and configuration files.
-- `/Data`: Sample CSV files used for the ETL process.
-- `/Documentation`: ER diagram and process flow documentation.
-
----
-
 ## **Getting Started**
 
 1. Clone this repository:
