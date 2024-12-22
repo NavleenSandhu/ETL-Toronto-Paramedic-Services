@@ -66,6 +66,14 @@ By turning data into actionable insights, this project aims to enhance paramedic
 
 ---
 
+## **Demo**
+<img src="./assets/images/ss1.png">
+<img src="./assets/images/ss2.png">
+<img src="./assets/images/ss3.png">
+<img src="./assets/images/ss4.png">
+
+---
+
 ## **Getting Started**
 
 1. Clone this repository:
